@@ -1,1 +1,1 @@
-# odin-recipes
+Purpose of this project is to show what I've learned so far with The Odin Project. It includes the basics of HTML like headings, paragraphs, lists, images and links.
